@@ -15,3 +15,5 @@ Faça cada um deles clonar o seu projeto e criar uma branch originada da develop
 texto (item 5, acima)
 
 texto (item 5, acima)
+
+lorem impsum lorem impsum lorem impsum lorem impsum lorem impsum lorem impsum lorem impsum lorem impsum lorem impsum lorem impsum lorem impsum lorem impsum lorem impsum  
